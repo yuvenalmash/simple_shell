@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
-* main - This is main fucntion of our program
-* void - shows the function is null
+* Main - This is main fucntion of our program
+* Void - shows the function is null
 */
 int main(void)
 {
