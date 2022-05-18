@@ -1,9 +1,9 @@
 #include <stdio.h>
+/*
+*main - desc
+*/
 int main(void) 
 {
-	/*
-	 *main - desc
-	 */
 	printf("Hello, Betty!!");
 }
 
