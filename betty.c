@@ -1,8 +1,8 @@
 #include <stdio.h>
 /*
-*main - desc
+* main - desc
 */
-int main(void) 
+int main(void)
 {
 	printf("Hello, Betty!!");
 }
