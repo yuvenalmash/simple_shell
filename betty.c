@@ -1,9 +1,10 @@
 #include <stdio.h>
-/*
-* Main - This is main fucntion of our program
-* Void - shows the function is null
-*/
-int main(void) //the function
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
 {
 	printf("Hello, Betty!!");
 }
