@@ -1,7 +1,7 @@
 /*
  * File: main.c
- * Authors: Ukonu, Divine Chisom
- *          Nobert Patrick
+ * Authors: Yuvenal Njoroge
+ *          Timothy Mutumwa
  */
 
 #include "shell.h"
